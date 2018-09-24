@@ -1,0 +1,14 @@
+{
+  "tester":{
+    "email": "test@protei.ru",
+    "password": "test"
+  },
+  "user":{
+    "email": "email",
+    "password": "password"
+  },
+  "admin":{
+    "email": "admin@mail.ru",
+    "password": ""
+  }
+}
